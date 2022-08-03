@@ -1,0 +1,96 @@
+.container{
+    margin-left: 250px;
+    margin-right: 250px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(140, 129, 204);
+}
+.main{
+    border: 2px solid black;
+    display: flex;
+    width: 89.5%;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(130, 119, 170);
+}
+.main1{
+    display: table-column;
+    width: 100%;
+    
+}
+.intro{  
+    margin-left: 30px;
+    width: 94%;
+
+    background-color: rgb(130, 119, 170);
+}
+.image{
+    width: 16%;
+
+}
+.name{
+    width: 95%;
+    border: 2px solid black;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+}
+.gener{
+    width: 90%;
+    display: flex;
+    background-image: linear-gradient(wheat,wheat);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+}
+.left{
+    border: 2px solid black;
+    background-color: rgb(180, 180, 180);
+}
+.right{
+    border: 1px solid black;
+    background-color: wheat;
+    
+}
+/* .intro{
+    background-color: blueviolet;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.educ{
+    background-color: green;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.skills{
+    background-color: orange;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.exp{
+    background-color: red;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.general{
+    background-color: grey;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.about{
+    background-color: yellow;
+    width: 95%;
+    margin-left: 15px;
+    border: 1px solid black;
+    margin-top: 10px;
+} */
